@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HikayatApp</string>
+
+    <string name="the_life_is_parable">The Life is Parable</string>
+    <string name="author_name">author Name</string>
+    <string name="author">author</string>
+    <string name="drawer_open">open</string>
+    <string name="drawer_close">close</string>
+
+
+</resources>
